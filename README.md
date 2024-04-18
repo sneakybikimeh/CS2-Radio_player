@@ -16,7 +16,7 @@ Close the console and press MOUSE1 to start cycling between the radio commands.
 
 ## Usage
 Type in the console `exec radio_player\radio_player.cfg` to load the config into the game.
-radiomsg is the main command to use.
+`radiomsg` is the main command to use.
 
 Everytime you use the `radiomsg` keybind, it will play the current radio command in stack, then store the next one in memory.
 If you want to skip to a specific radio command, type `radiomsg[number]` into the console, the keybind `radiomsg` will keep it in memory.
