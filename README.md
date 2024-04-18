@@ -6,7 +6,9 @@ Open the archive and extract its content into the following path folder :
 
         \...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\radio_player\
 
-Launch the game, boot up a practice server where you can turn on sv_cheats 1 and type in the console the following command: `exec radio_player\radio_player.cfg`.
+Launch the game, boot up a practice server where you can turn on sv_cheats 1 and type in the console the following command: 
+        
+        exec radio_player\radio_player.cfg
 
 Your console should display a message saying : "RADIO_PLAYER loaded succesfully ! :)"; otherwise you must have a path issue and the file did not load correctly.
 
