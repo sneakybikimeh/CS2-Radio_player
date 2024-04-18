@@ -1,7 +1,7 @@
 # CS2-Radio_player
 This set of configs facilitate listening to every radio messages available in Counter-Strike 2.
 
-Installation
+## Installation
 Open the archive and extract its content into the following path folder :
 
   "\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\radio_player\"
@@ -11,7 +11,7 @@ Your console should display a message saying : "RADIO_PLAYER loaded succesfully 
 
 Close the console and press MOUSE1 to start cycling between the radio commands.
 
-Usage
+## Usage
 Type in the console "exec radio_player\radio_player.cfg" to load the config into the game.
 radiomsg is the main command to use.
 
